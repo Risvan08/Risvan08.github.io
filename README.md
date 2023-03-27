@@ -1,1 +1,2 @@
-# Risvan08.github.io
+# Risvan-static-website
+# Risvan-kodithodika-static-website

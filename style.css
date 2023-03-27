@@ -1,0 +1,32 @@
+#screen{
+    width: 400px;
+    height: 663px;
+    background-color: grey;
+    margin-left: 40%;
+    
+}
+#tab{
+    width: 366px;
+    height: 74px;
+    margin-top: 24px;
+    margin-left: 10px;
+    pointer-events: none;
+}
+.btn{
+    width: 83px;
+    height: 65px;
+    background-color: yellow;
+    font-size: large;
+    font-weight: bold;
+    margin-top: 42px;
+    margin-left: 10px;
+}
+.btnarith{
+    width: 48px;
+    height: 44px;
+    background-color: aqua;
+    font-size: x-large;
+    font-weight: bolder;
+    margin-top: 10px;
+    margin-left: 10px;
+}
